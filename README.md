@@ -1,5 +1,5 @@
 # PhoneBook
-PhoneBook application to manage phone numbers.
+Phonebook application to manage phone numbers.
 
 #
 ## How to Use
